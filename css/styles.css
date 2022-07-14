@@ -13,7 +13,7 @@ text-decoration: none;
 }
 
 body {
-    font-family: var(--primary-font-family)
+    font-family: var(--primary-font)
 }
 .logo-accent {
     color: #000000;
@@ -218,7 +218,7 @@ body {
 }
 
 .portfolio-nav {
-    font-family: var(--primary-font-family);
+    font-family: var(--primary-font);
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
